@@ -1,0 +1,26 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.task-input {
+    background: #fff;
+}
+
+.task-item {
+    background: #d6d6d6;
+}
+
+.task-title {
+    font-weight: bold;
+}
+
+.task-desc {
+    font-size: 0.9rem;
+    color: #333;
+}
+
+.btn-outline-dark {
+    border-radius: 10px;
+    padding: 4px 30px;
+ 
+}
