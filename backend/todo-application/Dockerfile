@@ -1,4 +1,4 @@
-# Use an official OpenJDK runtime as a parent image
+#Use an official OpenJDK runtime as a parent image
 FROM openjdk:17
 
 # Set the working directory
@@ -12,3 +12,4 @@ EXPOSE 8090
 
 # Run the JAR file
 CMD ["java", "-jar", "todo-application-0.0.1-SNAPSHOT.jar"]
+
