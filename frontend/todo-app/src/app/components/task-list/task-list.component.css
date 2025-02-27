@@ -1,9 +1,8 @@
-body {
-    background-color: #f8f9fa;
-}
+
 
 .task-input {
-    background: #fff;
+    background: #eaf1f7e0;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Stronger shadow */
 }
 
 .task-item {
